@@ -81,6 +81,9 @@ def predict(path):
     return img1, predicted_image[0, :, :, :] 
 
 
+x_train, y_train, x_test, y_test = load_data(path='./data') 
+
+
 if train == True:
     x_train, y_train, x_test, y_test = load_data(path='./data') 
     x_train, y_train = augment_dataset(x_train, y_train) 
