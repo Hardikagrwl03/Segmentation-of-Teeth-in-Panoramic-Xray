@@ -4,7 +4,7 @@ The aim of this study is automatic semantic segmentation and measurement total l
 
 *****Architecture.*****
 
-<img src="https://github.com/Hardikagrwl03/Segmentation-of-Teeth-in-Panoramic-Xray/blob/master/Viewing_Estimations/gallery/Architecture.png" alt="Results" width="1024" height="512">
+<img src="https://github.com/Hardikagrwl03/Segmentation-of-Teeth-in-Panoramic-Xray/blob/main/gallery/Architecture.png" alt="Results" width="1024" height="512">
 
 ###  Getting Started
 
@@ -31,7 +31,7 @@ python main.py -t -p <Path of Xray Image>
 
 ### Sample Output
 
-<!-- <img src="https://github.com/Hardikagrwl03/Segmentation-of-Teeth-in-Panoramic-Xray/gallery/Sample_Output.png" alt="Results" width="1024" height="512"> -->
+<img src="https://github.com/Hardikagrwl03/Segmentation-of-Teeth-in-Panoramic-Xray/blob/main/gallery/Sample_Output.png" alt="Results" width="1024" height="512"> 
 
 ### Original Dataset
 
